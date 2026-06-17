@@ -23,6 +23,7 @@ Launch and configure an Amazon EC2 instance, modify its resources, and manage in
 
 4. **Captured a screenshot of the instance**
    - Used the EC2 console screenshot feature to verify the instance state
+   ![i-0c58dc02bd44c282e.jpg](i-0c58dc02bd44c282e.jpg)
 
 5. **Cleanup**
    - Disabled termination protection
