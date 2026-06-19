@@ -10,5 +10,6 @@ Labs are organised by domain.
 - **Storage** – S3, EBS, and data management
 - **Databases** – RDS, DynamoDB, and database configuration
 - **Security** – IAM, policies, and access control
+- **Linux & Systems** – Linux based system labs 
 
 Each lab includes a description of the objective, services used, and key takeaways.
