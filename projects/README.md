@@ -5,7 +5,7 @@ Each project demonstrates the practical application of cloud concepts and servic
 
 ## Projects
 
-- **Static Website** – Hosting a static website using AWS services
+- **[Static Website](s3-static-website)** – Hosting a static website using AWS services
 - *(More projects will be added as the program progresses)*
 
 Each project includes:
