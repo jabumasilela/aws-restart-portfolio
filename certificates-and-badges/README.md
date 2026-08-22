@@ -10,11 +10,11 @@ This section showcases my professional certifications and achievement badges ear
 
 🛠️ **Basic Technical Support Subject Matter Expert**
 
-📚 **AWS Educate Introduction to Generative AI - Training Badge**
+📚 **AWS Educate Introduction to Generative AI**
 
-💾 **AWS Educate Getting Started with Storage - Training Badge**
+💾 **AWS Educate Getting Started with Storage**
 
-☁️ **AWS Educate Introduction to Cloud 101 - Training Badge**
+☁️ **AWS Educate Introduction to Cloud 101**
 
 ---
 
