@@ -16,6 +16,14 @@ This section showcases my professional certifications and achievement badges ear
 
 ☁️ **AWS Educate Introduction to Cloud 101**
 
+<p>
+  <a href="https://www.credly.com/badges/503ba0aa-6de5-419f-8e99-fb256a369cc2"><img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="80" alt="AWS Certified Cloud Practitioner"></a>
+  <a href="https://www.credly.com/badges/d03982c3-0c68-4840-ae92-8f9401a27f78"><img src="https://images.credly.com/images/ec2d12f0-0da9-462f-95d0-026e189a7aa8/image.png" width="80" alt="AWS Cloud Practitioner Essentials"></a>
+  <a href="https://www.credly.com/badges/30ca8a70-690c-46f8-bd63-1cc34c7fc86a"><img src="https://images.credly.com/images/e50c657a-edd9-4c93-b1cf-2b6634b54abf/blob" width="80" alt="AWS Educate Introduction to Cloud 101"></a>
+  <a href="https://www.credly.com/badges/bdbb4ea2-b2bf-4c5c-9f82-5c1e3097df7c"><img src="https://images.credly.com/images/3b1b42e6-dfc2-492b-90df-8058096cb93d/blob" width="80" alt="AWS Educate Getting Started with Cloud Ops"></a>
+  <a href="https://www.credly.com/badges/48e26b9d-07bf-460d-a7e6-4235462c6ecb"><img src="https://images.credly.com/images/e51a8579-188d-4363-8ed1-12ad164ef57b/blob" width="80" alt="AWS Educate Introduction to Security"></a>
+</p>
+
 ---
 
 ## 📜 SimuLearn Certificates
