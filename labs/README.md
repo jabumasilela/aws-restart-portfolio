@@ -11,7 +11,7 @@ Labs are organized by domain.
 - **[DevOps, Management & Migration](./management-and-migration/)** – CI/CD, deployment, ops tools, and migration strategies
 - **[Data, Analytics & Machine Learning](./data-analytics-and-machine-learning/)** – Analytics, data processing, and ML services
 - **[Linux & Systems](./linux-and-systems/)** – Linux fundamentals, system administration, and CLI
-- **[Python](./python/)** – Python programming, scripting, and automation
+- **[Python Fundamentals](./python-fundamentals/)** – Python programming, scripting, and automation
 
 ---
 
