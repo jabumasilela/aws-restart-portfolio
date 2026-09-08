@@ -6,7 +6,7 @@ This section contains labs focused on AWS management, monitoring, and migration 
 
 ## Labs Completed
 
-### 1. ![Migrating to Amazon RDS](/https://github.com/jabumasilela/aws-restart-portfolio/blob/main/labs/management-and-migration/migrating-to-amazon-RDS.md)
+### 1. ![Migrating to Amazon RDS](./migrating-to-amazon-RDS.md)
 
 Migrate a café web application from a local database to a fully managed Amazon RDS instance:
 
