@@ -5,7 +5,7 @@ Labs are organized by domain.
 
 ## Domains
 
-- **[Compute & Applications](./compute-and-analytics/)** – EC2, Lambda, serverless computing, and application integration
+- **[Compute & Applications](./compute-and-applications/)** – EC2, Lambda, serverless computing, and application integration
 - **[Storage & Databases](./storage-and-databases/)** – S3, EBS, RDS, DynamoDB, and data management
 - **[Networking & Security](./networking-and-security/)** – VPCs, security groups, IAM, and access control
 - **[DevOps, Management & Migration](./management-and-migration/)** – CI/CD, deployment, ops tools, and migration strategies
