@@ -1,4 +1,4 @@
-# Compute & Applications
+# Compute & Analytics
 
 ## Overview
 This section contains labs focused on AWS compute services and application integration, covering EC2 instances, serverless computing with Lambda, and related infrastructure.
@@ -26,6 +26,16 @@ Deploy a serverless sales analysis reporting solution using AWS Lambda:
 
 ---
 
+### 3. [Troubleshooting the Creation of an EC2 Instance](./troubleshoot-create-instance.md)
+Launch a LAMP EC2 instance via the AWS CLI and troubleshoot a buggy provisioning script:
+- Launching an EC2 instance with the AWS CLI (`run-instances`)
+- Diagnosing Region-specific AMI errors (`InvalidAMIID.NotFound`)
+- Using the open-source nmap utility to test port reachability
+- Fixing security group inbound rules to allow HTTP (port 80)
+- Verifying a user data (cloud-init) LAMP deployment
+
+---
+
 ## Skills Gained
 
 ✅ EC2 instance management  
@@ -34,3 +44,6 @@ Deploy a serverless sales analysis reporting solution using AWS Lambda:
 ✅ VPC networking and security  
 ✅ Event-driven automation  
 ✅ Application integration  
+✅ AWS CLI infrastructure automation  
+✅ Troubleshooting with nmap  
+✅ Security group configuration  
