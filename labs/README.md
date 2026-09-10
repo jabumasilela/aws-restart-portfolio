@@ -17,8 +17,8 @@ Labs are organized by domain.
 
 ## Quick Stats
 
-- **Total Labs Completed**: 4
-- **Compute & Applications**: 2 labs
+- **Total Labs Completed**: 5
+- **Compute & Applications**: 3 labs
 - **Storage & Databases**: 0 labs
 - **Networking & Security**: 0 labs
 - **DevOps, Management & Migration**: 2 labs
