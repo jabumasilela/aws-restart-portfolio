@@ -33,7 +33,7 @@ Manage an EC2 instance at scale without SSH using AWS Systems Manager:
 
 ---
 
-### 3. [Automation with CloudFormation](./automation-with-cloudFormation.md)
+### 3. [Automation with CloudFormation](./automation-with-cloudformation.md)
 
 Define infrastructure as code and deploy it as a repeatable, automated stack:
 
