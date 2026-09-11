@@ -33,6 +33,20 @@ Manage an EC2 instance at scale without SSH using AWS Systems Manager:
 
 ---
 
+### 3. [Automation with CloudFormation](./automation-with-cloudFormation.md)
+
+Define infrastructure as code and deploy it as a repeatable, automated stack:
+
+- Deploying a VPC and Security Group from a YAML CloudFormation template
+- Understanding the Parameters, Resources, and Outputs template sections
+- Authoring S3 bucket and EC2 instance resources by consulting AWS documentation
+- Referencing resources within a template using the `!Ref` intrinsic function
+- Retrieving the latest Amazon Linux AMI via Systems Manager Parameter Store
+- Updating a live stack incrementally and previewing change sets
+- Cleanly deleting a stack and all the resources it created
+
+---
+
 ## Skills Gained
 
 ✅ Managed database provisioning (Amazon RDS)  
@@ -44,3 +58,6 @@ Manage an EC2 instance at scale without SSH using AWS Systems Manager:
 ✅ Fleet inventory and configuration compliance (Systems Manager)  
 ✅ Remote application installation with Run Command  
 ✅ SSH-free instance access with Session Manager  
+✅ Infrastructure as code with AWS CloudFormation  
+✅ Authoring and updating CloudFormation templates (YAML)  
+✅ Referencing resources with intrinsic functions (`!Ref`)  
