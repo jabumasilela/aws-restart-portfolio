@@ -47,6 +47,19 @@ Define infrastructure as code and deploy it as a repeatable, automated stack:
 
 ---
 
+### 4. [Troubleshooting CloudFormation](./troubleshooting-cloudformation.md)
+
+Create, inspect, and delete a CloudFormation stack from the AWS CLI, working through the failures along the way:
+
+- Querying JSON documents with JMESPath, the language behind the AWS CLI `--query` parameter
+- Isolating `CREATE_FAILED` events with `describe-stack-events` and a query filter
+- Preventing rollback with `--on-failure DO_NOTHING` to inspect failed resources
+- Diagnosing a user data failure via `/var/log/cloud-init-output.log` and the `part-001` script
+- Detecting and interpreting stack drift after a manual change
+- Deleting a stack while keeping a non-empty S3 bucket using `--retain-resources`
+
+---
+
 ## Skills Gained
 
 ✅ Managed database provisioning (Amazon RDS)  
@@ -61,3 +74,7 @@ Define infrastructure as code and deploy it as a repeatable, automated stack:
 ✅ Infrastructure as code with AWS CloudFormation  
 ✅ Authoring and updating CloudFormation templates (YAML)  
 ✅ Referencing resources with intrinsic functions (`!Ref`)  
+✅ Querying JSON with JMESPath (`--query`)  
+✅ Troubleshooting stack failures via CloudFormation events and cloud-init logs  
+✅ Detecting stack drift  
+✅ Controlling resource retention on stack deletion (`--retain-resources`)  
