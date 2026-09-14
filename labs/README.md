@@ -17,11 +17,11 @@ Labs are organized by domain.
 
 ## Quick Stats
 
-- **Total Labs Completed**: 6
-- **Compute & Applications**: 4 labs
+- **Total Labs Completed**: 7
+- **Compute & Applications**: 3 labs
 - **Storage & Databases**: 0 labs
 - **Networking & Security**: 0 labs
-- **DevOps, Management & Migration**: 2 labs
+- **DevOps, Management & Migration**: 4 labs
 - **Data, Analytics & ML**: 0 labs
 - **Linux & Systems**: 0 labs
 - **Python**: 0 labs
